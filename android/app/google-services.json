@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "401905589651",
+    "project_id": "hezare-3a766",
+    "storage_bucket": "hezare-3a766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401905589651:android:2c5794b61fc2f05d22dc66",
+        "android_client_info": {
+          "package_name": "com.example.hezare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401905589651-d9tmal0unkcmlonn5ij9sifd3fn9tuif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hezare_app",
+            "certificate_hash": "6c37c1f2fb9f0b5940843ee7a26a091fdb82c295"
+          }
+        },
+        {
+          "client_id": "401905589651-lmv9390qtr5565h56tv6629pkma9lfji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWBhRqKxje7RwahVOUFbX2zq8U07UgwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401905589651-lmv9390qtr5565h56tv6629pkma9lfji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401905589651-7vlgr4cel4ltgtkanegj0gppukhorje8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hezareApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
